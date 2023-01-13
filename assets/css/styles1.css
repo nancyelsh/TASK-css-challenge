@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
+
+body {
+    background-color: rgb(47, 32, 61);
+}
+
+.container {
+    padding: 40px 240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1, p {
+    font-family: 'Moon Dance', cursive;
+    color: aliceblue;
+    text-align: center;
+}
+
+p {
+    font-size: x-large;
+}
+
+img {
+    border-radius: 12px;
+}
